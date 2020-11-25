@@ -1,4 +1,4 @@
-# -RDN-SuperResolutionProcessing
+# RDN-SuperResolutionProcessing
 
 RDN-Residual Dense Network 残差深度网络
 
